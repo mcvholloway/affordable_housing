@@ -1,0 +1,13 @@
+0. Powerpoint talking about affordable housing in Nashville/Davidson County - find links to articles, candidates talking about it - what programs are out there
+
+1. Start with basics of loading in data from csv and basics of pandas - filtering, groupby, etc.
+
+2. Geopandas - mapping geographic data - Number of homes, cost per square foot, etc.
+
+3. Bring in income info - possibly using census API - or at least talk about it, give some examples - mention the drawbacks of using county division level, i.e. that it's not possible (unless it is) - working with census data (American Fact Finder)
+
+4. Demolition and building permits issued - gentrification (show the nashville open data portal)
+
+5. Projecting into the future - adding widgets to make an interactive plot (including minimap to show district location)
+
+Epilogue - Find that 1A episode on affordable housing - talk about some of the possibilities, things that have been tried in other cities
